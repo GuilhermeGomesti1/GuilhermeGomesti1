@@ -23,6 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width:100%;"></img>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GuilhermeGomesti1&theme=dark)](https://git.io/streak-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGomesti1&count_private=true&theme=midnight-purple&hide_border=true"/>
 
 
