@@ -2,7 +2,7 @@
 ## I'm Guilherme Gomes
 - I Live in 🇧🇷 , Belo Horizonte.
 - I am a frontend developer who loves technology 🧑‍💻
-- Focused on JavaScript, ReactJS, NextJS and TypeScript 💻
+- Focused on JavaScript, ReactJS, NextJS, NodeJS and TypeScript 💻
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/guilherme-gomes-427321238/" target="_blank">
