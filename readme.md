@@ -2,11 +2,11 @@
 ## I'm Guilherme Gomes
 - I Live in 🇧🇷 , Belo Horizonte.
 - I am a frontend developer who loves technology 🧑‍💻
-- Focused on JavaScript, ReactJS, NextJS, NodeJS and TypeScript 💻
+- Focused on JavaScript, ReactJS, NextJS, TypeScript, Node-JS and Cypress 💻
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/guilherme-gomes-427321238/" target="_blank">
-  <img align="center" alt="Samer-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+  <img align="center" alt="Guilherme-linkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
   style="max-width:100%;">
 </a>
 
